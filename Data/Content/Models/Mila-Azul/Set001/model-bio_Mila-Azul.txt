@@ -1,0 +1,10 @@
+Mila Azul
+Age when shot: 20
+Eye color: green
+Hair color: brown
+Height: 170cm
+Weight: 46kg
+Breast size: large
+Measurements: 89/56/86
+Country: Ukraine
+Ethnicity: Caucasian
