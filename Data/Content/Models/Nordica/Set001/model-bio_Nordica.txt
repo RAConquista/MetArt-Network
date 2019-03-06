@@ -1,0 +1,10 @@
+Nordica
+Age when shot: 22
+Eye color: green
+Hair color: blonde
+Height: 165cm
+Weight: 49kg
+Breast size: medium
+Measurements: 81/66/86
+Country: Czech Republic
+Ethnicity: Caucasian
