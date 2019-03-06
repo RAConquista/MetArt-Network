@@ -1,0 +1,10 @@
+Anoli A
+Age when shot: 19
+Eye color: brown
+Hair color: blonde
+Height: 168cm
+Weight: 54kg
+Breast size: large
+Measurements: 91/66/86
+Country: Unknown
+Ethnicity: Caucasian
