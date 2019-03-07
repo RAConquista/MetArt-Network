@@ -1,0 +1,10 @@
+Niemira
+Age when shot: 23
+Eye color: blue
+Hair color: brown
+Height: 168cm
+Weight: 49kg
+Breast size: medium
+Measurements: 86/66/84
+Country: Ukraine
+Ethnicity: Caucasian
