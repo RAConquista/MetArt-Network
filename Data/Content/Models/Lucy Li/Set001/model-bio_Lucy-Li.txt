@@ -1,0 +1,10 @@
+Lucy Li
+Age when shot: 21
+Eye color: green
+Hair color: black
+Height: 170cm
+Weight: 50kg
+Breast size: large
+Measurements: 91/64/84
+Country: Czech Republic
+Ethnicity: Caucasian
