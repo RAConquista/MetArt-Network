@@ -1,0 +1,10 @@
+Arin A
+Age when shot: 24
+Eye color: blue
+Hair color: red
+Height: 165cm
+Weight: 51kg
+Breast size: medium
+Measurements: 89/64/89
+Country: Ukraine
+Ethnicity: Caucasian
