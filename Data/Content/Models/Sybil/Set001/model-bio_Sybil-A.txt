@@ -1,0 +1,10 @@
+Sybil A
+Age when shot: 19
+Eye color: green
+Hair color: brown
+Height: 163cm
+Weight: 49kg
+Breast size: medium
+Measurements: 89/61/86
+Country: Slovenia
+Ethnicity: Caucasian
