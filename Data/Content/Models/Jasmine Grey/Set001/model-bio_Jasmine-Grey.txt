@@ -1,0 +1,12 @@
+Jasmine Grey
+Age when shot: 23
+Eye color: brown
+Hair color: brown
+Height: 145cm
+Weight: 33kg
+Breast size: small
+Measurements: 74/58/76
+Country: United States
+Ethnicity: Asian
+
+Bio: I enjoy relaxing, taking time for myself and my family as well as friends. Whenever I want to learn something I spend every waking moment to get "good" at it and then stop. Juggling and learning butterfly tricks are just examples.
