@@ -1,0 +1,10 @@
+Kika
+Age when shot: 22
+Eye color: blue
+Hair color: red
+Height: 168cm
+Weight: 48kg
+Breast size: medium
+Measurements: 91/64/97
+Country: Ukraine
+Ethnicity: Caucasian
